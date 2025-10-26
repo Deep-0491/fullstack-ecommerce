@@ -1,10 +1,10 @@
-
+import "bootstrap/dist/css/bootstrap.min.css";
 import './App.css';
 
 function App() {
   return (
     <>
-    <h1> Ecommerce Website in React </h1>
+      <h1 className='text-danger'>Ecommerce Website in React</h1>
     </>
   );
 }
